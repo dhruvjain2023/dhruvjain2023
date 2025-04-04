@@ -8,6 +8,6 @@
 - **Tools:** Git, VS Code, Jupyter, Postman, Docker
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvjain2023&show_icons=true)
 
 
