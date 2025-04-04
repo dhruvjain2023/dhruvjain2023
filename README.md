@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I am Dhruv Jain👋
 
-<!--
-**dhruvjain2023/dhruvjain2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Technologies & Languages I Use
 
-Here are some ideas to get you started:
+- **Languages:** Python, JavaScript, C++, Java
+- **Web:** HTML, CSS, React, Node.js
+- **Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Tools:** Git, VS Code, Jupyter, Postman, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+
